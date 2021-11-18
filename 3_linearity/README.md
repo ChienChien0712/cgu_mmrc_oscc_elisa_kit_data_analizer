@@ -15,6 +15,6 @@ In this case, due to the beta_2 of 2-order regression(y = beta_2*x^2 + beta_1*x 
 
 If the relationship is not linear, higher order regression will be applied. However, we need conduct further compiration between 1-order and higher-order to find a acceptable range in higher order regression.
 
-![acceptable_linearity](./images/acceptable linearity.png)
+![acceptable_linearity](./images/acceptable_linearity.png)
 
 The results imply if we use 2nd-order as our OD-concentration transformaiton equation, the acceptable concentration range is between 6.27 to 33.7. Furthemore, if 3rd-order is selected, there is an unacceptable value (11.5) that outrange our acceptable range.
